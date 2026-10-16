@@ -1,4 +1,4 @@
-# AV-ASOC backend
+# audioguard-ai backend/ui
 
 FastAPI server for AI-Driven Deepfake Voice & Audio Anti-Spoofing Operation Centre: accounts, database, background analysis jobs, live WebSocket analysis, model registry, and the web app (served at `/`).
 
